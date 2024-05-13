@@ -3,6 +3,9 @@ Study of US/CA High School Performance and Socioeconomic Factors with SQL and Ge
 
 This project explores the relationship between high school performance and census data across different regions in the United States. By analyzing datasets containing information on high school academic proficiency and socioeconomic factors, we aim to uncover insights into educational outcomes and their broader context.
 ![California High School Performance Visualization](/CA_hs_by_zip.png)
+<p align="center">
+  <img src="/CA_hs_by_zip.png" width="800" alt="Project Cover Photo">
+</p>
 
 ### Overview
 The project focuses on the following key aspects:
