@@ -1,4 +1,4 @@
-# US-highschool-Insights
+# US highschool performance Insights
 Study of US/CA High School Performance and Socioeconomic Factors with SQL and GeoPandas
 
 This project explores the relationship between high school performance and census data across different regions in the United States. By analyzing datasets containing information on high school academic proficiency and socioeconomic factors, we aim to uncover insights into educational outcomes and their broader context.
